@@ -29,3 +29,9 @@
 - ID token : token issued by the openid provider that contains information about end user in form of claims
 - claim: piece of information about user
 
+### Authorization code flow with PKCE flow
+![img](./media/pkce.png)
+
+### AI generated flow
+![img](./media/frontend-backend-flow.png)
+
